@@ -1,16 +1,12 @@
 {
-
-  // Editör Ayarları
   "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
   "editor.lineHeight": 24,
   "editor.fontLigatures": true,
   "editor.fontSize": 15,
   "editor.tabSize": 2,
-  // Dosya Ayarları
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 1000,
-  // Workbench Ayarları
   "workbench.sideBar.location": "left",
   "workbench.enableExperiments": false,
   "workbench.activityBar.visible": false,
@@ -18,7 +14,6 @@
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Material Theme Ocean",
   "workbench.startupEditor": "newUntitledFile",
-  // LiveSASS Ayarları
   "liveSassCompile.settings.formats": [
     {
       "format": "compressed",
@@ -37,6 +32,5 @@
     "> 1%",
     "last 2 versions"
   ],
-  // Liveserver Ayarları
   "liveServer.settings.donotShowInfoMsg": true,
 }
