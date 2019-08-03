@@ -11,3 +11,4 @@ Blog yazısı: https://huseyinkorbalta.com/visual-studio-code-icin-kullandigim-e
 * Material Theme
 * Auto Rename Tag
 * Prettier Code Formatter
+* npm
